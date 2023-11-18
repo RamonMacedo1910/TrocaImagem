@@ -1,0 +1,30 @@
+div{
+   background-color: rgb(117, 113, 113);
+   height: 450px;
+   border-style:solid;
+   border-radius: 10px;
+   border-color: black;
+   border-top-color:rgb(8, 67, 67) ;
+   border-left-color:rgb(8, 67, 67) ;
+   margin-top: 100px;
+   margin-right: 200px ;
+   margin-left: 200px;
+}
+
+#figura{
+    margin-left: 110px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+
+
+button{
+    height: 50px;
+    margin-left: 450px;
+    color: rgb(0, 0, 0);
+    background-color: gray;
+    border-radius: 25px;
+    font-weight: bold;
+}
